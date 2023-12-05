@@ -1,4 +1,3 @@
 # 🔥 News
-- *2022.09*:  Our paper "[Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=e2c7Kt0AAAAJ&citation_for_view=e2c7Kt0AAAAJ:W7OEmFMy1HYC)" is accepted by CoRL 2022
-- *2022.09*: 🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 100!
-- *2022.08*: Our paper "[Exploring both Individuality and Cooperation for Air-Ground Spatial Crowdsourcing by Multi-Agent Deep Reinforcement Learning](https://github.com/BIT-MCS/hi-MADRL)" is accepted by ICDE 2023
+- *2023.12*:  Our paper "[HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning]()" is accepted by *IEEE Transactions on Computers*, 2023.
+- *2023.09*: Our paper "[QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning]()" is accepted by *IEEE Journal on Selected Areas in Communications*, 2023.
