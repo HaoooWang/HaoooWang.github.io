@@ -4,7 +4,7 @@
 
 - *2017.09 - 2021.06*, Undergraduate, Beijing Institute of Techonolgy, Beijing.
 
-- *2014.09 - 2017.06*, Tsinghua University High School, Tianjin.
+- *2014.09 - 2017.06*, Tsinghua University High School, Beijing.
 
 
 
