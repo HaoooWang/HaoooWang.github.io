@@ -12,7 +12,7 @@
 </div>
 </div> -->
 
-- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](), Yuxiao Ye*, **Hao Wang\***, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2023.
+- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](), Yuxiao Ye*, <strong>Hao Wang*</strong>, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2023.
 
 - [Ensuring Threshold AoI for UAV-assisted Mobile Crowdsensing by Multi-Agent Deep Reinforcement Learning with Transformer](https://ieeexplore.ieee.org/document/10181012), **Hao Wang**, Chi Harold Liu, Haoming Yang, Guoren Wang, Kin K Leung,***IEEE Transactions on Networking (ToN)***, 2023. [![](https://img.shields.io/github/stars/BIT-MCS/DRL-UCS-AoI-Threshold?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-UCS-AoI-Threshold) 
  
