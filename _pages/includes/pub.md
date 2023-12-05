@@ -21,4 +21,4 @@
 
 
 ## 🚖 Recommender System
-- [HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning](*), **Hao Wang**, Bo Tang, Chi Harold Liu, et al., “HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning”, ***IEEE Transactions on Computers***, 2023. (accepted)
+- [HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning](*), **Hao Wang**, Bo Tang, Chi Harold Liu, Shangqin Mao, Jiahong Zhou, Zipeng Dai, Qianlong Xie, Xingxing Wang, Dong Wang, ***IEEE Transactions on Computers***, 2023. (accepted)
