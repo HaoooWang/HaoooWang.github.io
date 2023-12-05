@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zipeng Dai (戴子彭)"
-description              : "PhD candidate in Beijing Institute of Technology. Focusing on mobile crowdsensing and unmanned vehicles."
-repository               : "superboySB/superboySB.github.io"
+title                    : "Hao Wang (王昊)"
+description              : "Master student at Beijing Institute of Technology. Focusing on mobile crowdsensing and unmanned vehicles."
+repository               : "HaoooWang/HaoooWang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-0GMKY2NN7J
+google_analytics_id      : tkHiYjMAAAAJ
 
 # SEO Related
-google_site_verification : UTiIYrh3UtfoMkWoOow6EtPS3v11DwuGKpHGciVCeZs
+google_site_verification : # UTiIYrh3UtfoMkWoOow6EtPS3v11DwuGKpHGciVCeZs
 bing_site_verification   : # Can import the Google site verification code
-baidu_site_verification  : code-r8tC9kbric
+baidu_site_verification  : #code-r8tC9kbric
 
 # Site Author
 author:
-  name             : "Zipeng Dai (戴子彭)"
+  name             : "Hao Wang (王昊)"
   avatar           : "images/dzp_profile.jpg"
   bio              : "Beijing Institute of Technology"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=e2c7Kt0AAAAJ"
-  email            : "daizipeng@bit.edu.cn"
-  researchgate     : # "https://www.researchgate.net/profile/Zipeng-Dai-2"
+  googlescholar    : "https://scholar.google.com/citations?user=tkHiYjMAAAAJ"
+  email            : "wanghao@bit.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "superboySB"
+  github           : "HaoooWang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "superboySB"
-  dblp             : "https://dblp.org/pid/266/6184.html"
-  orcid            : "https://orcid.org/0000-0002-2479-9801"
+  linkedin         : #"superboySB"
+  dblp             : #"https://dblp.org/pid/266/6184.html"
+  orcid            : #"https://orcid.org/0000-0002-2479-9801"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "7285095799"
+  weibo            : #"7285095799"
   xing             :
   youtube          :
   wikipedia        :
