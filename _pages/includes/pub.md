@@ -12,12 +12,12 @@
 </div>
 </div> -->
 
-- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](), Yuxiao Ye*, **Hao Wang\***, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***.
+- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](), Yuxiao Ye*, **Hao Wang\***, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2023.
 
-- [Ensuring Threshold AoI for UAV-assisted Mobile Crowdsensing by Multi-Agent Deep Reinforcement Learning with Transformer](https://ieeexplore.ieee.org/document/10181012), **Hao Wang**, Chi Harold Liu, Haoming Yang, Guoren Wang, Kin K Leung,***IEEE Transactions on Networking (ToN)***, [![](https://img.shields.io/github/stars/BIT-MCS/DRL-UCS-AoI-Threshold?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-UCS-AoI-Threshold) 
+- [Ensuring Threshold AoI for UAV-assisted Mobile Crowdsensing by Multi-Agent Deep Reinforcement Learning with Transformer](https://ieeexplore.ieee.org/document/10181012), **Hao Wang**, Chi Harold Liu, Haoming Yang, Guoren Wang, Kin K Leung,***IEEE Transactions on Networking (ToN)***, 2023. [![](https://img.shields.io/github/stars/BIT-MCS/DRL-UCS-AoI-Threshold?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-UCS-AoI-Threshold) 
  
-- [Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3447548.3467070), **Hao Wang**, Chi Harold Liu, Zipeng Dai, Jian Tang, Guoren Wang, ***ACM SIGKDD 2021*** <span style="color:red">(best paper award runner up)</span> , [![](https://img.shields.io/github/stars/BIT-MCS/DRL-DisasterVC?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-DisasterVC) 
-- [Mobile Crowdsensing for Data Freshness: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9488791/), Zipeng Dai, **Hao Wang**, Chi Harold Liu, Rui Han, Jian Tang, Guoren Wang, ***IEEE INFOCOM 2021*** <span style="color:red">(Oral)</span> , [![](https://img.shields.io/github/stars/BIT-MCS/DRL-freshMCS?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-freshMCS) 
+- [Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3447548.3467070), **Hao Wang**, Chi Harold Liu, Zipeng Dai, Jian Tang, Guoren Wang, ***ACM SIGKDD 2021*** <span style="color:red">(best paper award runner up)</span>. [![](https://img.shields.io/github/stars/BIT-MCS/DRL-DisasterVC?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-DisasterVC) 
+- [Mobile Crowdsensing for Data Freshness: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9488791/), Zipeng Dai, **Hao Wang**, Chi Harold Liu, Rui Han, Jian Tang, Guoren Wang, ***IEEE INFOCOM 2021*** <span style="color:red">(Oral)</span>. [![](https://img.shields.io/github/stars/BIT-MCS/DRL-freshMCS?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-freshMCS) 
 
 
 ## 🚖 Recommender System
