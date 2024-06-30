@@ -12,7 +12,9 @@
 </div>
 </div> -->
 
-- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](), Yuxiao Ye, **Hao Wang (Equal Contribution)**, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2023.
+- [Indoor Periodic Fingerprint Collections by Vehicular Crowdsensing via Primal-Dual Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10558776),Haoming Yang, Qiran Zhao, **Hao Wang**, Chi Harold Liu, Guozheng Li, Guoren Wang, Jian Tang, Dapeng Wu, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2024.
+
+- [QoI-Aware Mobile Crowdsensing for Metaverse by Multi-Agent Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10184585), Yuxiao Ye, **Hao Wang (Equal Contribution)**, Chi Harold Liu, Zipeng Dai, Guozheng Li, Guoren Wang, Jian Tang, ***IEEE Journal on Selected Areas in Communications (JSAC)***, 2024.
 
 - [Ensuring Threshold AoI for UAV-assisted Mobile Crowdsensing by Multi-Agent Deep Reinforcement Learning with Transformer](https://ieeexplore.ieee.org/document/10181012), **Hao Wang**, Chi Harold Liu, Haoming Yang, Guoren Wang, Kin K Leung,***IEEE Transactions on Networking (ToN)***, 2023. [![](https://img.shields.io/github/stars/BIT-MCS/DRL-UCS-AoI-Threshold?style=social&label=Code+Stars)](https://github.com/BIT-MCS/DRL-UCS-AoI-Threshold) 
  
